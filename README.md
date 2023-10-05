@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLOlslPRjLDBQk_Qo7hS_1A8GEYIKHwxiyw&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kingshuk Mondal</h1>
 <h3 align="center">Highly motivated and detail-oriented Computer Science and Engineering fresher with a strong academic background and a passion for technology and innovation. Proficient in programming languages like Java, with a solid understanding of algorithms and data structures. Hands-on experience with Android development, and database management. Seeking an opportunity to apply my knowledge and contribute to cutting-edge projects in the field of computer science and engineering.</h3>
